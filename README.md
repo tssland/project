@@ -13,4 +13,4 @@ This data has been collected in real-time, using multiple Traffic APIs. Currentl
 ### Usage Policy and Legal Disclaimer
 This dataset is being distributed only for Research purposes, under Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may need to cite the above papers if you use this dataset.
 ### Import Libraries and Get Data
-This data is available at kaggle, let's use necessary libraries and get the data from there as followings:
+This data is available at kaggle, the whole Python study is [Here](https://github.com/tssland/project/blob/master/US%20Accident.ipynb)

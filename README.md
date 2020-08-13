@@ -1,4 +1,3 @@
-# project
 # US ACCIDENTS CAPSTONE PROJECT
 ### Description
 This is a countrywide traffic accident dataset, which covers 49 states of the United States. The data is collected from February 2016 to December 2019, using several data providers, including two APIs that provide streaming traffic incident data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 3.0 million accident records in this dataset. Check here to learn more about this dataset.
@@ -13,4 +12,4 @@ This data has been collected in real-time, using multiple Traffic APIs. Currentl
 ### Usage Policy and Legal Disclaimer
 This dataset is being distributed only for Research purposes, under Creative Commons Attribution-Noncommercial-ShareAlike license (CC BY-NC-SA 4.0). By clicking on download button(s) below, you are agreeing to use this data only for non-commercial, research, or academic applications. You may need to cite the above papers if you use this dataset.
 ### Import Libraries and Get Data
-This data is available at kaggle, the whole Python study is [Here](https://github.com/tssland/project/blob/master/US%20Accident.ipynb)
+This data is available at [kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents), the whole Python study is [Here](https://github.com/tssland/project/blob/master/US%20Accident.ipynb)
